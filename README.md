@@ -1,4 +1,4 @@
-# SAE - Création d'un outil d'aide à la décision - S5
+# SAE - Création d'un outil d'aide à la décision - S6
 
 Dans le cadre de notre troisième et dernière année de formation à l'IUT de Rodez, en BUT INFORMATIQUE,
 le projet suivant nous a été confié.
@@ -15,16 +15,15 @@ l’entreprise d’améliorer son service aux utilisateurs en se basant sur les 
 lui fournira."
 
 ## Description du projet
-Nous devons réaliser un module complémentaire pour l'ERP Dolibarr qui doit permettre un suivi des saisies 
-réalisées par une application Android. Ce module pourra dans le futur être placé sur le Dolistore afin d’en 
-faire profiter la communauté.
-Nous devons aussi réaliser l'application Android permettant de saisir et modifier les stocks. Cette application
-doit pouvoir être utilisée depuis un téléphone ou une tablette, en mode connecté (mise à jour en temps réel du 
-stock) et déconnecté (la saisie est réalisée sur l’application, la mise à jour sur le SI se fait plus tard 
-lorsque la connexion est possible).
+Dans le cadre de notre projet du 6ème semestre, nous avons été mandatés pour mettre en place des outils d'aide
+à la décision pour l'entreprise gérant les vélos en libre-service dans la ville de Paris. Notre objectif
+principal est de concevoir des indicateurs pertinents permettant d'optimiser la gestion des stations et du 
+parc de vélos, en utilisant les données issues du système d'information de l'entreprise.
+Ce projet s'inscrit dans une démarche d'amélioration continue visant à prendre des décisions afin d’optimiser 
+le réseau et répondre aux besoins croissants de l'entreprise.
 
-Divers livrables sont aussi à réaliser : manuels, cahier de recettes, dossier d'analyse de risque cyber, PRA,
-PCA, ...
+Divers livrables sont aussi à réaliser : manuel, document d'analyse et de formulation des indicateurs,
+document des ressources nécessaires, ...
 
 ## Equipe 
 
